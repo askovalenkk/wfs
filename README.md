@@ -1,2 +1,4 @@
 # WFS Shell Script
-Website Fast Setup (WFS) is a shell script for Debian/Ubuntu that helps you quickly setup your website with Nginx web server and CertBot. You just need to enter your email and domain name.
+WFS (Website Fast lightweight bash utility for Debian/Ubuntu that helps you to quickly deploy your websites and control them. Automatic Nginx, Сertbot and other common components required for hosting a website from a minimalistic menu.
+
+tbd
