@@ -32,7 +32,7 @@ colorized_echo cyan "   \:\/:/  /        \:\  \        \/_/:/  /"
 colorized_echo cyan "    \::/  /          \:\__\         /:/  / "
 colorized_echo cyan "     \/__/            \/__/         \/__/        WEBSITE FAST SETUP"
 echo " "
-colorized_echo cyan 'Website Fast Setup (WFS) is a script that will help you quickly setup your website with NGINX Web-Server and CertBot. To run this script use the "wfs" command. Before using this command please make sure that you has updated DNS-records (it may take up to 48 hours).'
+colorized_echo cyan 'Website Fast Setup (WFS) is a bash script that will help you quickly deploy your website with Nginx web server and CertBot. Before using this command please make sure that you has updated DNS-records (it may take up to 48 hours).'
 colorized_echo cyan "Source code: https://www.github.com/askovalenkk/wfs"
 
 if [ "$EUID" -ne 0 ]; then
