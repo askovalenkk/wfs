@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ------ Website Fast Setup (WFS) ------
-# (c) Kovalenko Andrei 2026
+# COPYRIGHT (c) 2026 Kovalenko Andrei
 # MIT License
 
 colorized_echo() {
