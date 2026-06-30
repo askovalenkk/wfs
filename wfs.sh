@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# ------ Website Fast Setup (WFS) ------
+# (c) Kovalenko Andrei 2026
+# MIT License
+
 colorized_echo() {
     local color=$1
     local text=$2
